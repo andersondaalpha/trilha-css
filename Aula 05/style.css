@@ -2,11 +2,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: black;
     color: white;
 }
 
 body {
+    background-color: black;
     border: 3px solid rgb(206, 24, 24);
 }
 
@@ -59,7 +59,7 @@ ul a:hover {
 /* Sessão de filmes e séries */
 /* Eu queria deixar a imagem com borda quando passasse o mouse e não consegui usar muito bem o float aqui */
 section figure a { 
-    padding: 0;
+    padding: 0px;
 }
 
 section figure {
